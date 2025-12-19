@@ -1,0 +1,8 @@
+# Ignore downloaded / browser cache files
+*.download
+*_files/
+saved_resource*.html
+
+# OS files
+Thumbs.db
+.DS_Store
